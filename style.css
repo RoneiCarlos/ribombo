@@ -1,0 +1,150 @@
+/*
+    Theme Name: Ribombo
+    Text Domain: Ribombo
+    Version: 1.0
+    Requires at least: 4.7
+    Requires PHP: 5.2.4
+    Description: Tema desenvolvido e personalizado para o Grupo de Estudos em Gestão e Educação Ambiental, Mudanças Climáticas e os Objetivos do Desenvolvimento Sustentáel em Áreas Litorâneas - RIBOMBO.
+    Tags: blog, one-column, right-sidebar
+    Author: Ronei Carlos Kunkel
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body {
+    background-color: #e9ecef;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.jt-padding {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.card {
+    padding: 1px, 1px, 1px, 1px;
+}
+
+a, a:link, a:hover, a:visited, a:active {
+    color: #1d4c79;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.borda {
+    border-radius: 0px;
+}
+
+.jumbotron {
+    padding-top: 1.5em;
+    padding-bottom: .7em;
+    background: #ffffff;
+}
+
+.img-qs-padding {
+    padding-left: 10px;
+}
+
+.margin-padding-0 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.margin-padding-1 {
+    margin: 10px;
+    padding: 10px;
+}
+
+.banner-logo {
+    padding: 0px 15px;
+}
+
+.bg-c-gray {
+    background-color: black;
+    opacity: 0.7;
+}
+
+.bg-c-white {
+    background-color: white;
+    opacity: 0.7;
+}
+
+.card-title {
+    margin: 0;
+}
+
+.card-img-overlay {
+    margin-top: 0;
+    padding-top: 0;
+    pointer-events: none;
+    background-color: black;
+    opacity: 0.6;
+}
+
+.margin-div {
+    margin-left: .95rem;
+    margin-right: 0.95rem;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 5%;
+  background-color: white;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
+}
+
+.bg-insta {
+    background: rgb(64,93,230);
+    background: linear-gradient(208deg, rgba(64,93,230,1) 10%, rgba(88,81,219,1) 20%, rgba(131,58,180,1) 30%, rgba(193,53,132,1) 40%, rgba(225,48,108,1) 50%, rgba(253,29,29,1) 60%, rgba(245,96,64,1) 70%, rgba(247,119,55,1) 80%, rgba(252,175,69,1) 90%, rgba(255,220,128,1) 100%);
+}
+
+.bg-spotify {
+    background: rgba(25,20,20,1);
+}
+
+.rounded-insta {
+    border-radius: .85rem !important;
+}
+
+.bg-anchor {
+    background: rgb(136,30,195);
+    background: linear-gradient(200deg, rgba(136,30,195,1) 0%, rgba(70,53,226,1) 100%);
+}
+
+.rounded-anchor {
+    border-radius: 1em !important;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.zindex-2 {
+    z-index: 2;
+}
+
+*{
+    font-family: 'Sitka Text',Georgia,Cambria,Calibri;
+}
