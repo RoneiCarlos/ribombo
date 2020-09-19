@@ -81,7 +81,7 @@ get_header();
                 <?php while(have_posts()): the_post(); ?>
                     <div class="jumbotron">
                         <div class="row">
-                            <div class="col-md-4 mb-3" style="height: 12em; overflow: hidden;">
+                            <div class="col-md-4 mb-3" style="max-height: 12em; overflow: hidden;">
                                 <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('post-thumbnail', array('class' => 'img-fluid')); ?></a>
                             </div>
                             <div class="col-md-8">
