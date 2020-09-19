@@ -1,5 +1,5 @@
 # Ribombo 
-[![ribombo](https://secureservercdn.net/198.71.188.149/72n.014.myftpupload.com/wp-content/themes/ribombo/img/logo.png)](https://ribombo.com.br)
+[![ribombo](https://secureservercdn.net/198.71.188.149/72n.014.myftpupload.com/wp-content/themes/ribombo/img/logo.png)](http://ribombo.com.br)
 
 Ribombo é um grupo de pesquisa alocado no programa de pós graduação em educação ambiental da FURG.
 
