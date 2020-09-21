@@ -9,7 +9,7 @@ get_header();
 
 
 <div class="container">
-<h1>Eventos</h1>
+<h1>Vídeos</h1>
 
 <div class="row">
         <div class="col-md-8">
